@@ -1,7 +1,7 @@
 # Data-Art_Plastic_Portrait
 Plastic Portrait: Visualizing Technical Skills Through Cable Ties
 <br><br>
-Мой Дата Арт проект "Портрет сообщества", стал материалом для статьи в Nichtingale — journal of the Data Vizualization Society. Журнал является частью проекта Data Vizualization Society — Место встречи практиков и энтузиастов визуализации данных. Это некоммерческая организация, управляемая волонтерами и ставящая перед собой три основные цели: пропагандировать и развивать сферу визуализации данных.<br><br>
+Мой Дата Арт проект "Портрет сообщества", стал материалом для статьи в Nichtingale — journal of the Data Vizualization Society. Журнал является частью проекта Data Vizualization Society — Место встречи практиков и энтузиастов визуализации данных. Это некоммерческая организация, управляемая волонтерами и ставящая перед собой основные цели: пропагандировать и развивать сферу визуализации данных.<br><br>
 
 [Статья в журнале Nichtingale](https://nightingaledvs.com/plastic-portrait-cable-ties/)<br><br>
 
